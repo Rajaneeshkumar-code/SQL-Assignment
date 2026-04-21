@@ -67,7 +67,7 @@ The dataset contains information about hospitals including:
 
 ## 🙋‍♂️ Author
 
-**Your Name**
+** Name**
 - LinkedIn: [https://www.linkedin.com/in/rajaneesh-kumar-0607a3273/](#)
 
 
